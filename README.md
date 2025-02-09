@@ -1,13 +1,10 @@
 Chip8 Emulator
 ==============
 
-Currently working except for sound.
+Forked for EmuDev edition 2027.
+You can also add your 2027 demo by creating a merge request on this fork.
 
-Compiles on Linux. Depends on OpenGL and GLUT.
-
-To build: `make`
-
-To run: `./play <path/to/rom>`
+Check the roms !
 
 ![logo](logo.png)
 

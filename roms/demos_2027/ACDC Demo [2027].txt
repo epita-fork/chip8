@@ -1,0 +1,7 @@
+This is a demo for the Chip-8.
+Works on real hardware as well as emulators.
+
+Enjoy!
+
+  baptiste.entat
+  antoine.blumenroeder
