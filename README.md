@@ -9,7 +9,4 @@ Check the roms !
 ![logo](logo.png)
 
 
-![space invaders](space_invaders.png)
-
-
 ![pong](pong.png)
