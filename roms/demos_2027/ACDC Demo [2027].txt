@@ -1,6 +1,9 @@
 This is a demo for the Chip-8.
 Works on real hardware as well as emulators.
 
+I use this https://github.com/glouw/c8c
+Give it a try if you have time.
+
 Enjoy!
 
   baptiste.entat
